@@ -926,3 +926,5 @@ $type           - Тип аватара.
 <p align="right">
         <img height="75px" src="https://raw.githubusercontent.com/levelsranks/levels-ranks-web/alpha/.github/authors.png">
 </p>
+#   s i t e  
+ 
