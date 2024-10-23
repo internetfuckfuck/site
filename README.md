@@ -15,19 +15,8 @@
 Этот сайт предназначен для установки только на специализированных серверах и не запустится на локальном компьютере, без специальных бд.
 
 ---
-<div style="text-align: center;">
-    <p>
-        <br><br>
- /$$$$$$$  /$$   /$$ /$$$$$$$ <br>
-| $$__  $$| $$  | $$| $$__  $$ <br>
-| $$  \ $$| $$  | $$| $$  \ $$ <br>
-| $$$$$$$/| $$$$$$$$| $$$$$$$/ <br>
-| $$____/ | $$__  $$| $$____/  <br>
-| $$      | $$  | $$| $$      <br> 
-| $$      | $$  | $$| $$   <br>   
-|__/      |__/  |__/|__/   <br>                           
-    </p>
-</div>
+
+```html
 <div style="text-align: center;">
     <p>
         <br><br>
@@ -36,5 +25,5 @@
         ⠀⠀⠀⠀⠀⠀⢠⣿⠀⠀⣿⡇⠀⣰⡿⠀⣠⡴⠒⢺⡟⠀⣼⡏⠀⢠⣿⠀⠀⣾⡏⠉⠉⠉⠀⣸⡇⠀⠀⠀⣤⠖⠒⣿⠇⠀⢹⣇⡞⢹⣇⣼⠃⠀⠀⠀⠀⠀⠀⠀<br>
         ⠀⠀⠀⠀⠀⠀⠸⠇⠀⠀⠙⠷⠾⠛⠁⠀⠻⠷⠖⠿⠃⠀⠘⠿⠖⠻⠇⠀⠀⠙⠷⠶⠚⠀⠀⠿⠁⠀⠀⠀⠻⠶⠺⠿⠀⠀⠸⠟⠁⠸⠿⠃⠀⠀⠀⠀⠀⠀⠀<br>
     </p>
-    <img src="https://github.com/loaderaw1337/loaderaw1337/blob/main/loaderaw.gif" alt="Loader GIF" style="margin-right: 20px;">
+    <img src="https://github.com/loaderaw1337/loaderaw.gif" alt="Loader GIF" style="margin-right: 20px;">
 </div>
